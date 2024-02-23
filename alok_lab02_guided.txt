@@ -1,0 +1,8 @@
+Alok Patel
+I used the vim command and created a file to open. Then i put the configurations into the file and used the shift, ;, wq to save it. Then checked file with vim .vimrc. Used cd command to change name and lastly used vim command to save and quit.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
